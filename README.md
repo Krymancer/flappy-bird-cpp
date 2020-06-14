@@ -1,8 +1,8 @@
-# CarCrush
+# Flappy Bird
 A simple game using SDL2
 
 <p align="center">
-  <img alt="CarCrush" src=".github/carcrush.png">
+  <img alt="FlappyBird" src=".github/flappybird.gif">
 </p>
 
 ## Build
